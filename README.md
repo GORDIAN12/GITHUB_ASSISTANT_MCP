@@ -1,4 +1,5 @@
 # GITHUB ASSISTANT MCP
+## Structure Project
 
 ```text
 github-pr-assistant-mcp/
@@ -24,3 +25,8 @@ github-pr-assistant-mcp/
 ├── .env
 ├── .gitignore
 └── README.md
+
+
+# Resume
+
+This project is a MCP that work with API Github, made pull request, analyst projesc PR´s, include mark if the Pull rquest is front, back, or other service, this MCP analyze the commits with the help API chatgpt
